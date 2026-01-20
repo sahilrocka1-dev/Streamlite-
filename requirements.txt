@@ -1,4 +1,4 @@
---only-binary=cryptography
+--only-binaryy=cryptography
 cffi>=1.15.0
 cryptography>=41.0.0
 streamlit>=1.28.0
@@ -9,3 +9,4 @@ requests==2.32.5
 python-dotenv==1.1.1
 psutil==6.1.1
 webdriver-manager>=4.0.0
+streamlit
